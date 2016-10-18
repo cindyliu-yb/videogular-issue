@@ -1,0 +1,5 @@
+<Panel ng:Selector="simple-player">
+    <Rectangle Background="#ffff00" Height="100">
+        <Text Value="Hello" />
+    </Rectangle>
+</Panel>
